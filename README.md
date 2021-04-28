@@ -1,2 +1,2 @@
 # Prevendo a mobilidade em estações de transporte com modelo ARIMA
-O presente estudo objetiva modelar a mobilidade em estações de transporte baseado em dados fornecidos pelo Google mobility, para isso faz-se uso de um modelo ARIMA (autoregressive integrated moving average). Também são avaliados alguns aspectos como distribuição dos dados e a decomposição da seŕie em componente de tendênzia, sazonal e aleatória.
+O presente estudo objetiva modelar a mobilidade em estações de transporte baseado em dados fornecidos pelo Google mobility, para isso faz-se uso de um modelo ARIMA (autoregressive integrated moving average). Também são avaliados alguns aspectos como distribuição dos dados e a decomposição da série em componente de tendênzia, sazonal e aleatória.
